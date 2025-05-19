@@ -1,5 +1,5 @@
 { 
-  "home page":"http://44Sara/Netflix_Clone"
+  "home page":"http://44Sara.github.io/Netflix_Clone",
   "name": "netflix-clone",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy" :"npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
